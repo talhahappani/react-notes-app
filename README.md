@@ -14,7 +14,7 @@ A simple notes app built with React, Firebase (Firestore), and Vite.
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/talhahappanii/react-notes-app.git
+git clone https://github.com/talhahappani/react-notes-app.git
 cd react-notes-app
 ```
 
