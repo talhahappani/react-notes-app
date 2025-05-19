@@ -76,9 +76,10 @@ react-notes-app/
 ├── src/
 │   ├── App.jsx
 │   ├── firebase.jsx
+│   ├── main.jsx
+│   ├── App.css
 │   └── components/
-├── .env             ← Your Firebase config (ignored)
-├── .env.example     ← Template for your env vars
+├── .env
 ├── .gitignore       ← Ignores .env and node_modules
 ├── package.json
 ├── vite.config.js
